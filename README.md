@@ -1,6 +1,8 @@
 # Camera2TransparencyPatch
 [Camera2](https://github.com/kinsi55/CS_BeatSaber_Camera2)のEFFECTSのTransparencyで最小でも10%は透過してしまうのを透過させない様にします。
 
+![image](https://user-images.githubusercontent.com/14249877/222939931-9a1f5b3c-62a5-456b-88e7-b1ba2437770c.png)
+
 # インストール方法
 
 1. [リリースページ](https://github.com/rynan4818/Camera2TransparencyPatch/releases)から最新のCamera2TransparencyPatchのリリースをダウンロードします。
