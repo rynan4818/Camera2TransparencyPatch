@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "Camera2TransparencyPatch",
+  "name": "Camera2TransparencyPatch",
+  "author": "Rynan",
+  "version": "0.0.1",
+  "description": "Transparency in Camera2 to prevent transparency",
+  "gameVersion": "1.20.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.2",
+    "Camera2": "^0.6.99"
+  }
+}
