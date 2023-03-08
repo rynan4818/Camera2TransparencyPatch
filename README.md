@@ -7,7 +7,7 @@
 1. [リリースページ](https://github.com/rynan4818/Camera2TransparencyPatch/releases)から最新のCamera2TransparencyPatchのリリースをダウンロードします。
 2. ダウンロードしたzipファイルを`Beat Saber`フォルダに解凍して、`Plugin`フォルダに`Camera2TransparencyPatch.dll`ファイルをコピーします。
 
-※対象のCamera2はv0.6.99以上です。
+※対象のCamera2はv0.6.99とv0.6.100です。([次のバージョンアップで対応される見込み](https://github.com/kinsi55/CS_BeatSaber_Camera2/issues/98))
 
 # 注意点
 Camera2の`LuminanceKey.shader`を差し替えるため将来的にCamera2の更新で挙動がおかしくなる可能性があります。[LuminanceKey.shaderの変更履歴](https://github.com/kinsi55/CS_BeatSaber_Camera2/commits/master/Shaders/LuminanceKey.shader)で最新のコミットが本modのリリース日より新しくなっている場合は使用を控えて下さい。
